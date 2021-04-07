@@ -1,2 +1,2 @@
 # SongLibrary
-Simple application built using Java and JavaFX
+# Simple application to store, sort and search songs from different albums.
